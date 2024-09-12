@@ -17,13 +17,13 @@ global.ytname = "YT: Kermhacktools"
 global.socialm = "GitHub: Kgtech-cmt"
 global.location = "India, UP, rampur"
 
-global.ownernumber = '237656520674'  //creator number
-global.ownername = 'KgTech👽' //owner name
+global.ownernumber = '25766486303'  //creator number
+global.ownername = '👑𝐋𝐎𝐍𝐄❄️𝐊𝐘𝐎𝐓𝐀𝐊𝐀❄️𝐀𝐘𝐀𝐍𝐎𝐊𝐎𝐉𝐈👑' //owner name
 global.botname = 'KERM-BUG-BOT' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = '🦄KgTech\n\nContact: +237656520674'
+global.packname = 'Sticker By ^_^'
+global.author = '👑𝐋𝐎𝐍𝐄❄️𝐊𝐘𝐎𝐓𝐀𝐊𝐀❄️𝐀𝐘𝐀𝐍𝐎𝐊𝐎𝐉𝐈👑'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -33,7 +33,7 @@ global.wm = "Kerm Bug Bot Inc."
 global.link = 'https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45'
 
 //custom prefix
-global.prefa = ['','!','.']
+global.prefa = ['','!'-'.']
 
 //false=disable and true=enable
 global.autoRecording = true //auto recording
