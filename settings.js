@@ -11,29 +11,29 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237656520674"
-global.ownername = "KgTech👽"
+global.ownernomer = "25766486303"
+global.ownername = "👑𝐋𝐎𝐍𝐄❄️𝐊𝐘𝐎𝐓𝐀𝐊𝐀❄️𝐀𝐘𝐀𝐍𝐎𝐊𝐎𝐉𝐈👑"
 global.ytname = "YT: Kermhacktools"
-global.socialm = "GitHub: Kgtech-cmt"
+global.socialm = "GitHub: TECH-MD"
 global.location = "India, UP, rampur"
 
 global.ownernumber = '25766486303'  //creator number
 global.ownername = '👑𝐋𝐎𝐍𝐄❄️𝐊𝐘𝐎𝐓𝐀𝐊𝐀❄️𝐀𝐘𝐀𝐍𝐎𝐊𝐎𝐉𝐈👑' //owner name
-global.botname = 'KERM-BUG-BOT' //name of the bot
+global.botname = 'TECH_BUG-BOT' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By ^_^'
+global.packname = 'Sticker By'
 global.author = '👑𝐋𝐎𝐍𝐄❄️𝐊𝐘𝐎𝐓𝐀𝐊𝐀❄️𝐀𝐘𝐀𝐍𝐎𝐊𝐎𝐉𝐈👑'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Kerm Bug Bot Inc."
+global.wm = "TECH BUG BOT Inc."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45'
 
 //custom prefix
-global.prefa = ['','!'-'.']
+global.prefa = ['','+'-'.']
 
 //false=disable and true=enable
 global.autoRecording = true //auto recording
@@ -49,18 +49,18 @@ global.autoswview = true //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v2'
+global.typemenu = 'v1'
 
 //reply messages
 global.mess = {
     done: '*_Done successfully._*',
-    prem: '*_This feature can be used by Kgtech or premium user only_*',
-    admin: '*_This feature can be used by Kgtech or admin only_*',
+    prem: '*_This feature can be used by LONE or premium user only_*',
+    admin: '*_This feature can be used by LONE or admin only_*',
     botAdmin: '*_This feature can only be used when the bot is a group admin_* ',
-    owner: '*_This feature can be used by Kgtech or owner only_*',
+    owner: '*_This feature can be used by LONE or owner only_*',
     group: '*_This feature is only for groups_*',
     private: '*_This feature is only for private chats_*',
-    wait: '*_In process bro..._*',    
+    wait: '*_In process bro♻️..._*',    
     error: '*_Error!_*',
 }
 
